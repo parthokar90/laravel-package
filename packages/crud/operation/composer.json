@@ -1,0 +1,19 @@
+{
+    "name": "crud/operation",
+    "description": "Simple crud",
+    "autoload": {
+        "psr-4": {
+            "Crud\\Operation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Partho Kar"
+        }
+    ],
+    "classmap": [
+        "src/Models"
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
